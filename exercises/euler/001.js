@@ -7,16 +7,12 @@
 function getSum(upTo){
     var runnigSum = 0;
     for(var ii = 0 ; ii < upTo; ii++){
-        if (ii % 3 === 0){
-            runnigSum+=ii;
-        }
-
-        if (ii % 5 === 0){
+        if (ii % 3 === 0  || ii % 5 === 0){
             runnigSum+=ii;
         }
     }
     return runnigSum
 }
 
-console.log(getSum(10));
+console.log(getSum(100));
 
