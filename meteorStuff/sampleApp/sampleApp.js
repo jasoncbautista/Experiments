@@ -1,3 +1,8 @@
+var root = this;
+
+root.App = {};
+root.App.Card = new Meteor.Collection("card");
+
 if (Meteor.isClient) {
   Template.hello.greeting = function () {
     return "Welcome to sampleApp.";
