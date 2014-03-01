@@ -3,6 +3,8 @@
 ```
 meteor add accounts-ui 
 meteor add accounts-password
+meteor add accounts-google
+
 ```
 
 
