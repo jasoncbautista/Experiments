@@ -85,8 +85,12 @@ opencv
 
 
 ## Computer Vision
-## Misc Text
 
+## Dates
+
+## Misc Text
+convert date to "4 hour ago", "3 days ago"
+extra proper nouns
 Distance between two words
 XML / HTML Parser
 
@@ -96,11 +100,27 @@ vector
 array
 binary tree
 Trie
+dictionary concept aka hashmap
+
+## Algos
+binary search
+bubble sort
+djastras
+memoizing
+bfs
+dfs
+graph traversal (find x node)
+VISUALIZE SIMPLE ALGOS
+
+
 
 ## Misc
 timer / sleep example
 exponentially backoff example
 write tree program
+state machine
+Eventer, bind, subscribe
+
 
 ### Networking
 Scrape single wiki page
@@ -119,6 +139,12 @@ graph
 buttons
 
 ## IO
+List all files in dir
+list all files recursively in all dirs
+merge all files into one, ommit some files
+list lines of code per file
+diff between two files
+invoke and read shell command output value (stderr, stdout)
 Write a basic file with "hello world"
 write a file with 100 lines, 1 million lines, etc
 Search through file for keyword
@@ -126,6 +152,7 @@ Search for repeated keywords in tons of files
 Get unieque keywords
 Read own source code, and write it out to another file
 read template and replace occurances (i.e underscore templates)
+
 
 
 ## Machine Learning
