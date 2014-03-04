@@ -1,0 +1,12 @@
+
+let c  = 0
+
+
+for i in [1,3,4,5]
+   let c+= i
+   echom i
+endfor
+
+echom c
+
+
