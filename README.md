@@ -15,4 +15,10 @@ C#
 
 var t = 1;
 
-Generative art
+Generative art, processing
+
+
+
+Small talk
+
+Car:square: double
