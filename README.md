@@ -22,3 +22,11 @@ Generative art, processing
 Small talk
 
 Car:square: double
+
+
+( define (isRoundNum num)
+
+( =  (Ceiling num) (Floor num))
+
+
+)
