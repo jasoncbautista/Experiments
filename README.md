@@ -30,4 +30,9 @@ Car:square: double
 
 
 )
+
+
+(define mod ( x y)
+
+)
 ```
