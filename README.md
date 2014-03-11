@@ -34,7 +34,8 @@ Car:square: double
 
 (define mod ( x y)
     (if (isRoundNum( (/ x y))
+    ; TODO: fix this
     (mod x y-1)
-    (-  x (/ x y) )
+    (-  x (/ x;y) )
 )
 ```
