@@ -18,6 +18,12 @@ var t = 1;
 Generative art, processing
 
 
+```c#
+ // Self invoking anonymous funciton:
+ 
+ Console.WriteLine( new Func<string>( () => "Hello" )() );
+```
+
 
 Small talk
 
