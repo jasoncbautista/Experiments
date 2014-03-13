@@ -45,4 +45,10 @@ Car:square: double
     (-  x (/ x;y) )
 )
 ```
+ 
+```python
  /Applications/mvim /Library/Python/2.7/site-packages/bs4/__init__.py 
+
+  type(obj_bleh) # type of obj
+  dir(bleh_bleh) # gives you fxns on obj
+ ```
